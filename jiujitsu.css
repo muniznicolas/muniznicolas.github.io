@@ -1,0 +1,56 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: orange;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2 {
+    color: orange;
+    font-size: 20px;
+}
+
+h3 {
+    color: orange;
+    font-size: 15px;
+}
+
+li{
+    color: white;
+}
+
+dd{
+    color: white;
+}
+
+p {
+    color: white;
+    text-align: justify;
+}
+
+#listas-golpes {
+    color: orange;
+}
+
+#listas-faixas {
+    color: orange;
+}
+
+#listas-posicoes {
+    color: orange;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.imagem-centralizada {
+    display: block;
+    margin: auto;
+    transition: background-color 300ms;
+}
